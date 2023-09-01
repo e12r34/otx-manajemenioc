@@ -1375,3 +1375,567 @@
 2023-04-27-12:43:42 Processing file 6448506f7a10b2c157ec8fc4.json
 2023-04-27-12:43:42 Inserting Document to Collection IOC with id 6448506f7a10b2c157ec8fc4
 2023-04-27-12:43:42 Success Insert Document to Collection IOC with id 6448506f7a10b2c157ec8fc4
+2023-06-12-08:10:56 Processing file 647608160a3f28d008a396b2.json
+2023-06-12-08:10:56 Inserting Document to Collection IOC with id 647608160a3f28d008a396b2
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647608160a3f28d008a396b2
+2023-06-12-08:10:57 Processing file 6480e5d5eeeaca1ff8abbcff.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6480e5d5eeeaca1ff8abbcff
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6480e5d5eeeaca1ff8abbcff
+2023-06-12-08:10:57 Processing file 6477174ea5eabc44f1b7813a.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6477174ea5eabc44f1b7813a
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6477174ea5eabc44f1b7813a
+2023-06-12-08:10:57 Processing file 646e2e81a2e8d2b1df49e6a7.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646e2e81a2e8d2b1df49e6a7
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646e2e81a2e8d2b1df49e6a7
+2023-06-12-08:10:57 Processing file 646cfaa54132dba532491f73.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646cfaa54132dba532491f73
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646cfaa54132dba532491f73
+2023-06-12-08:10:57 Processing file 646251df5a10b8e5ddb05f4a.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646251df5a10b8e5ddb05f4a
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646251df5a10b8e5ddb05f4a
+2023-06-12-08:10:57 Processing file 62cfdc330e8f4188c32a3518.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 62cfdc330e8f4188c32a3518
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 62cfdc330e8f4188c32a3518
+2023-06-12-08:10:57 Processing file 647efbbf9d4d077da2df7dee.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 647efbbf9d4d077da2df7dee
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647efbbf9d4d077da2df7dee
+2023-06-12-08:10:57 Processing file 64664ae7e409a29a7716fdfa.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64664ae7e409a29a7716fdfa
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64664ae7e409a29a7716fdfa
+2023-06-12-08:10:57 Processing file 6478b506a9bcf5c50e555e3f.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6478b506a9bcf5c50e555e3f
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6478b506a9bcf5c50e555e3f
+2023-06-12-08:10:57 Processing file 647124e05d8dc027507b7b49.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 647124e05d8dc027507b7b49
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647124e05d8dc027507b7b49
+2023-06-12-08:10:57 Processing file 648347434c397b4817e63bf9.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 648347434c397b4817e63bf9
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 648347434c397b4817e63bf9
+2023-06-12-08:10:57 Processing file 6479e0f1f358d855f84fc52d.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6479e0f1f358d855f84fc52d
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6479e0f1f358d855f84fc52d
+2023-06-12-08:10:57 Processing file 6474aa05665bf97182a577b8.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6474aa05665bf97182a577b8
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6474aa05665bf97182a577b8
+2023-06-12-08:10:57 Processing file 6470b701350f155b8bf833e7.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6470b701350f155b8bf833e7
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6470b701350f155b8bf833e7
+2023-06-12-08:10:57 Processing file 646cf500357f2cf4f750e722.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646cf500357f2cf4f750e722
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646cf500357f2cf4f750e722
+2023-06-12-08:10:57 Processing file 64639447e7b0053fdb137ecd.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64639447e7b0053fdb137ecd
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64639447e7b0053fdb137ecd
+2023-06-12-08:10:57 Processing file 641215d6755811b251dcdfc4.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 641215d6755811b251dcdfc4
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 641215d6755811b251dcdfc4
+2023-06-12-08:10:57 Processing file 6483422af0d028f050d13526.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6483422af0d028f050d13526
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6483422af0d028f050d13526
+2023-06-12-08:10:57 Processing file 647605dbe5a369262cc99d24.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 647605dbe5a369262cc99d24
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647605dbe5a369262cc99d24
+2023-06-12-08:10:57 Processing file 646bb5eb1d33f685220c4a43.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646bb5eb1d33f685220c4a43
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646bb5eb1d33f685220c4a43
+2023-06-12-08:10:57 Processing file 64712b3e142afa97df3f3cc4.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64712b3e142afa97df3f3cc4
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64712b3e142afa97df3f3cc4
+2023-06-12-08:10:57 Processing file 646ccb4ca09cbc1b60f22b01.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646ccb4ca09cbc1b60f22b01
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646ccb4ca09cbc1b60f22b01
+2023-06-12-08:10:57 Processing file 5fd26232136d00457d18ea45.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 5fd26232136d00457d18ea45
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 5fd26232136d00457d18ea45
+2023-06-12-08:10:57 Processing file 6478bbf77d8fa4b93726d95d.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6478bbf77d8fa4b93726d95d
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6478bbf77d8fa4b93726d95d
+2023-06-12-08:10:57 Processing file 64833c08dadf544c30e94298.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64833c08dadf544c30e94298
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64833c08dadf544c30e94298
+2023-06-12-08:10:57 Processing file 64624bf5f592bbf92440b7e4.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64624bf5f592bbf92440b7e4
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64624bf5f592bbf92440b7e4
+2023-06-12-08:10:57 Processing file 64661d0ea8368c2220aeff78.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64661d0ea8368c2220aeff78
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64661d0ea8368c2220aeff78
+2023-06-12-08:10:57 Processing file 648321ebdebe7ec1bfb04001.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 648321ebdebe7ec1bfb04001
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 648321ebdebe7ec1bfb04001
+2023-06-12-08:10:57 Processing file 64676e2dffb6057207af2037.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64676e2dffb6057207af2037
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64676e2dffb6057207af2037
+2023-06-12-08:10:57 Processing file 6480961ee919e1f6ae47d275.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6480961ee919e1f6ae47d275
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6480961ee919e1f6ae47d275
+2023-06-12-08:10:57 Processing file 64712ddfa559e42b1ee4bf5c.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64712ddfa559e42b1ee4bf5c
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64712ddfa559e42b1ee4bf5c
+2023-06-12-08:10:57 Processing file 648107945daaa56965c6b5f1.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 648107945daaa56965c6b5f1
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 648107945daaa56965c6b5f1
+2023-06-12-08:10:57 Processing file 648340f66e6baaa298b44a9d.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 648340f66e6baaa298b44a9d
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 648340f66e6baaa298b44a9d
+2023-06-12-08:10:57 Processing file 64805aad021906141c79aec0.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64805aad021906141c79aec0
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64805aad021906141c79aec0
+2023-06-12-08:10:57 Processing file 647e0775cc54787894ba6c87.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 647e0775cc54787894ba6c87
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647e0775cc54787894ba6c87
+2023-06-12-08:10:57 Processing file 6471109bec697a82895fc293.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6471109bec697a82895fc293
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6471109bec697a82895fc293
+2023-06-12-08:10:57 Processing file 6467a7ac79c273e1aeab8999.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6467a7ac79c273e1aeab8999
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6467a7ac79c273e1aeab8999
+2023-06-12-08:10:57 Processing file 6464e63d7b9feededadb3186.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6464e63d7b9feededadb3186
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6464e63d7b9feededadb3186
+2023-06-12-08:10:57 Processing file 64624300be5bdf797c65c021.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64624300be5bdf797c65c021
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64624300be5bdf797c65c021
+2023-06-12-08:10:57 Processing file 648075655dea5621190d8e57.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 648075655dea5621190d8e57
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 648075655dea5621190d8e57
+2023-06-12-08:10:57 Processing file 6464e92b315e36def6f801a0.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6464e92b315e36def6f801a0
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6464e92b315e36def6f801a0
+2023-06-12-08:10:57 Processing file 646ba99ab25604f67ffda2ad.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646ba99ab25604f67ffda2ad
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646ba99ab25604f67ffda2ad
+2023-06-12-08:10:57 Processing file 6471304f6bea67d687e380d6.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6471304f6bea67d687e380d6
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6471304f6bea67d687e380d6
+2023-06-12-08:10:57 Processing file 64025cce4073abb7f956f000.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64025cce4073abb7f956f000
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64025cce4073abb7f956f000
+2023-06-12-08:10:57 Processing file 646b8ba6d19d67f6543e9f7f.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646b8ba6d19d67f6543e9f7f
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646b8ba6d19d67f6543e9f7f
+2023-06-12-08:10:57 Processing file 64662e42892932585c023e3a.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64662e42892932585c023e3a
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64662e42892932585c023e3a
+2023-06-12-08:10:57 Processing file 646cde441c44d14ce5c9c7e7.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646cde441c44d14ce5c9c7e7
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646cde441c44d14ce5c9c7e7
+2023-06-12-08:10:57 Processing file 64774fc29a882d005f7e6919.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64774fc29a882d005f7e6919
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64774fc29a882d005f7e6919
+2023-06-12-08:10:57 Processing file 64638bb666005b906bc81c2b.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64638bb666005b906bc81c2b
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64638bb666005b906bc81c2b
+2023-06-12-08:10:57 Processing file 646f7b3924bb523f5fe3f549.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646f7b3924bb523f5fe3f549
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646f7b3924bb523f5fe3f549
+2023-06-12-08:10:57 Processing file 6464eb7691adf1a5d60ade14.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6464eb7691adf1a5d60ade14
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6464eb7691adf1a5d60ade14
+2023-06-12-08:10:57 Processing file 6466470c091e09c4b108d7f6.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6466470c091e09c4b108d7f6
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6466470c091e09c4b108d7f6
+2023-06-12-08:10:57 Processing file 64624bf528c55e0976f2bf71.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64624bf528c55e0976f2bf71
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64624bf528c55e0976f2bf71
+2023-06-12-08:10:57 Processing file 647eff19feb464d0aa7c7337.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 647eff19feb464d0aa7c7337
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647eff19feb464d0aa7c7337
+2023-06-12-08:10:57 Processing file 646765746468225843222473.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646765746468225843222473
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646765746468225843222473
+2023-06-12-08:10:57 Processing file 64638dc425d391a213c4439c.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64638dc425d391a213c4439c
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64638dc425d391a213c4439c
+2023-06-12-08:10:57 Processing file 64624f9d587a62427d578423.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64624f9d587a62427d578423
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64624f9d587a62427d578423
+2023-06-12-08:10:57 Processing file 646b86330f5e0a80621931b7.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646b86330f5e0a80621931b7
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646b86330f5e0a80621931b7
+2023-06-12-08:10:57 Processing file 6478acb235b6b9b1e1726002.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6478acb235b6b9b1e1726002
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6478acb235b6b9b1e1726002
+2023-06-12-08:10:57 Processing file 64677a23db27c28b787d5683.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64677a23db27c28b787d5683
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64677a23db27c28b787d5683
+2023-06-12-08:10:57 Processing file 646769249a4ba07cb583399b.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646769249a4ba07cb583399b
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646769249a4ba07cb583399b
+2023-06-12-08:10:57 Processing file 64710e172e8e0e765c1f9518.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64710e172e8e0e765c1f9518
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64710e172e8e0e765c1f9518
+2023-06-12-08:10:57 Processing file 647867c737fabe79f511cffa.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 647867c737fabe79f511cffa
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647867c737fabe79f511cffa
+2023-06-12-08:10:57 Processing file 646ba9973dc01acb7d4ebc7a.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646ba9973dc01acb7d4ebc7a
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646ba9973dc01acb7d4ebc7a
+2023-06-12-08:10:57 Processing file 6474b39715a3c51571b7513f.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6474b39715a3c51571b7513f
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6474b39715a3c51571b7513f
+2023-06-12-08:10:57 Processing file 647611ff6c4476f85ef61a46.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 647611ff6c4476f85ef61a46
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 647611ff6c4476f85ef61a46
+2023-06-12-08:10:57 Processing file 6462542263af9647a50895ec.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6462542263af9647a50895ec
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6462542263af9647a50895ec
+2023-06-12-08:10:57 Processing file 6478b34d9c4a18e0e603214a.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6478b34d9c4a18e0e603214a
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6478b34d9c4a18e0e603214a
+2023-06-12-08:10:57 Processing file 64834366fe4bc8b938137732.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64834366fe4bc8b938137732
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64834366fe4bc8b938137732
+2023-06-12-08:10:57 Processing file 646252912b258776ae3e092f.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646252912b258776ae3e092f
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646252912b258776ae3e092f
+2023-06-12-08:10:57 Processing file 646b8ecbcec55ddc4b7d749a.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646b8ecbcec55ddc4b7d749a
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646b8ecbcec55ddc4b7d749a
+2023-06-12-08:10:57 Processing file 646255c17a209b203265944b.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646255c17a209b203265944b
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646255c17a209b203265944b
+2023-06-12-08:10:57 Processing file 646256b304f749a5bdc942c3.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646256b304f749a5bdc942c3
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646256b304f749a5bdc942c3
+2023-06-12-08:10:57 Processing file 646257cd2b258776ae3e0930.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 646257cd2b258776ae3e0930
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 646257cd2b258776ae3e0930
+2023-06-12-08:10:57 Processing file 6439501202b9b00f23796d8a.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6439501202b9b00f23796d8a
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6439501202b9b00f23796d8a
+2023-06-12-08:10:57 Processing file 64625a79244b743ba2a598a3.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64625a79244b743ba2a598a3
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64625a79244b743ba2a598a3
+2023-06-12-08:10:57 Processing file 64799ae9f3db8938cdc5ad23.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 64799ae9f3db8938cdc5ad23
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 64799ae9f3db8938cdc5ad23
+2023-06-12-08:10:57 Processing file 6462497daf5d5114cdca1a64.json
+2023-06-12-08:10:57 Inserting Document to Collection IOC with id 6462497daf5d5114cdca1a64
+2023-06-12-08:10:57 Success Insert Document to Collection IOC with id 6462497daf5d5114cdca1a64
+2023-09-01-03:41:27 Processing file 64f0a87de1d155ccb31c3561.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f0a87de1d155ccb31c3561
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f0a87de1d155ccb31c3561
+2023-09-01-03:41:27 Processing file 64e30eb81c0bcf2794396ba6.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e30eb81c0bcf2794396ba6
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e30eb81c0bcf2794396ba6
+2023-09-01-03:41:27 Processing file 64a442b7bdaa1bd2ea1ebfd4.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a442b7bdaa1bd2ea1ebfd4
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a442b7bdaa1bd2ea1ebfd4
+2023-09-01-03:41:27 Processing file 64ef403008890b7b5795b0c7.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ef403008890b7b5795b0c7
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ef403008890b7b5795b0c7
+2023-09-01-03:41:27 Processing file 64ef41c91baab11a7cb2d16a.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ef41c91baab11a7cb2d16a
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ef41c91baab11a7cb2d16a
+2023-09-01-03:41:27 Processing file 64de06ea3bfe29b3fe0d6490.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64de06ea3bfe29b3fe0d6490
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64de06ea3bfe29b3fe0d6490
+2023-09-01-03:41:27 Processing file 64b54e8c239d4457494dd91f.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b54e8c239d4457494dd91f
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b54e8c239d4457494dd91f
+2023-09-01-03:41:27 Processing file 64f0a62a160733e029666166.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f0a62a160733e029666166
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f0a62a160733e029666166
+2023-09-01-03:41:27 Processing file 64ba64026d86a3507ef4f489.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ba64026d86a3507ef4f489
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ba64026d86a3507ef4f489
+2023-09-01-03:41:27 Processing file 64be7b3dbe9c2467c5461227.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64be7b3dbe9c2467c5461227
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64be7b3dbe9c2467c5461227
+2023-09-01-03:41:27 Processing file 64a731ed59b7c34d5731ea0d.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a731ed59b7c34d5731ea0d
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a731ed59b7c34d5731ea0d
+2023-09-01-03:41:27 Processing file 64e8688ae20e56da413ac148.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e8688ae20e56da413ac148
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e8688ae20e56da413ac148
+2023-09-01-03:41:27 Processing file 64e37791808502819a914e44.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e37791808502819a914e44
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e37791808502819a914e44
+2023-09-01-03:41:27 Processing file 64f09671ab42514bf1db37a3.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f09671ab42514bf1db37a3
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f09671ab42514bf1db37a3
+2023-09-01-03:41:27 Processing file 64f09792546303290ab09c15.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f09792546303290ab09c15
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f09792546303290ab09c15
+2023-09-01-03:41:27 Processing file 64c28bb6fc5889a39639cfc4.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c28bb6fc5889a39639cfc4
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c28bb6fc5889a39639cfc4
+2023-09-01-03:41:27 Processing file 64e64d4f3fbd8deafea68166.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e64d4f3fbd8deafea68166
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e64d4f3fbd8deafea68166
+2023-09-01-03:41:27 Processing file 64d13db4c73971185ff3c8ec.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d13db4c73971185ff3c8ec
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d13db4c73971185ff3c8ec
+2023-09-01-03:41:27 Processing file 64a2dfe24c04a40592744e60.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a2dfe24c04a40592744e60
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a2dfe24c04a40592744e60
+2023-09-01-03:41:27 Processing file 64e775a5cc20b64c5a0c6726.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e775a5cc20b64c5a0c6726
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e775a5cc20b64c5a0c6726
+2023-09-01-03:41:27 Processing file 64cc07dd6f033ec7d2b1e592.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64cc07dd6f033ec7d2b1e592
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64cc07dd6f033ec7d2b1e592
+2023-09-01-03:41:27 Processing file 64b7a0336ca84d46de5d7f15.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b7a0336ca84d46de5d7f15
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b7a0336ca84d46de5d7f15
+2023-09-01-03:41:27 Processing file 64d553344955a919245d6c94.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d553344955a919245d6c94
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d553344955a919245d6c94
+2023-09-01-03:41:27 Processing file 64e7333ffcf6ddc96d603501.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e7333ffcf6ddc96d603501
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e7333ffcf6ddc96d603501
+2023-09-01-03:41:27 Processing file 64d40aab25cb10d904e06dad.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d40aab25cb10d904e06dad
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d40aab25cb10d904e06dad
+2023-09-01-03:41:27 Processing file 64d5587d8a1c7dae958a6a3f.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d5587d8a1c7dae958a6a3f
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d5587d8a1c7dae958a6a3f
+2023-09-01-03:41:27 Processing file 64ba4d9c546bd878d60f0c8c.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ba4d9c546bd878d60f0c8c
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ba4d9c546bd878d60f0c8c
+2023-09-01-03:41:27 Processing file 64a82bceaf3b8ce26d0c7660.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a82bceaf3b8ce26d0c7660
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a82bceaf3b8ce26d0c7660
+2023-09-01-03:41:27 Processing file 64e871b6dddd2e4fbb0ce3b6.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e871b6dddd2e4fbb0ce3b6
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e871b6dddd2e4fbb0ce3b6
+2023-09-01-03:41:27 Processing file 64e378cb25cd6eeab226ccb3.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e378cb25cd6eeab226ccb3
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e378cb25cd6eeab226ccb3
+2023-09-01-03:41:27 Processing file 64dca4eb3f10605dbeff12ac.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64dca4eb3f10605dbeff12ac
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64dca4eb3f10605dbeff12ac
+2023-09-01-03:41:27 Processing file 64c12e2e62d01cc5e407fa8d.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c12e2e62d01cc5e407fa8d
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c12e2e62d01cc5e407fa8d
+2023-09-01-03:41:27 Processing file 64b0248bb9dc57e662e04ef0.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b0248bb9dc57e662e04ef0
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b0248bb9dc57e662e04ef0
+2023-09-01-03:41:27 Processing file 64b79ec3e92674e2da2c6990.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b79ec3e92674e2da2c6990
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b79ec3e92674e2da2c6990
+2023-09-01-03:41:27 Processing file 64e6359e82c27ed835efb4b6.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e6359e82c27ed835efb4b6
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e6359e82c27ed835efb4b6
+2023-09-01-03:41:27 Processing file 64d33784ed2c382401a39070.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d33784ed2c382401a39070
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d33784ed2c382401a39070
+2023-09-01-03:41:27 Processing file 64a2fca60ce4b2027b6eeadf.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a2fca60ce4b2027b6eeadf
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a2fca60ce4b2027b6eeadf
+2023-09-01-03:41:27 Processing file 64cc00feb8bd93677b5f4785.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64cc00feb8bd93677b5f4785
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64cc00feb8bd93677b5f4785
+2023-09-01-03:41:27 Processing file 64b947e9ac9a722581e9b9cd.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b947e9ac9a722581e9b9cd
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b947e9ac9a722581e9b9cd
+2023-09-01-03:41:27 Processing file 64ec9f47f59121291f567d25.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ec9f47f59121291f567d25
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ec9f47f59121291f567d25
+2023-09-01-03:41:27 Processing file 64ee0767ef32a83bd953ff02.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ee0767ef32a83bd953ff02
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ee0767ef32a83bd953ff02
+2023-09-01-03:41:27 Processing file 64b1bab42bf33a6e9de18eac.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b1bab42bf33a6e9de18eac
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b1bab42bf33a6e9de18eac
+2023-09-01-03:41:27 Processing file 64e86f59c7e4868f4fd05414.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e86f59c7e4868f4fd05414
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e86f59c7e4868f4fd05414
+2023-09-01-03:41:27 Processing file 64ba6031d2051c26d794df02.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ba6031d2051c26d794df02
+2023-09-01-03:41:27 Got Error documents must be a non-empty list
+2023-09-01-03:41:27 Processing file 64c80a42487c59686ed640a3.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c80a42487c59686ed640a3
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c80a42487c59686ed640a3
+2023-09-01-03:41:27 Processing file 64d408a3c5e9f42a3dead3b6.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d408a3c5e9f42a3dead3b6
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d408a3c5e9f42a3dead3b6
+2023-09-01-03:41:27 Processing file 64e62628ed1119d03d3db75a.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e62628ed1119d03d3db75a
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e62628ed1119d03d3db75a
+2023-09-01-03:41:27 Processing file 64f09f67430167a084c508ac.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f09f67430167a084c508ac
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f09f67430167a084c508ac
+2023-09-01-03:41:27 Processing file 64c3b9dc8c9f288d10c98fe9.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c3b9dc8c9f288d10c98fe9
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c3b9dc8c9f288d10c98fe9
+2023-09-01-03:41:27 Processing file 64c1336884593c36acc3e40e.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c1336884593c36acc3e40e
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c1336884593c36acc3e40e
+2023-09-01-03:41:27 Processing file 64e374c89862f3f419b51037.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e374c89862f3f419b51037
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e374c89862f3f419b51037
+2023-09-01-03:41:27 Processing file 64d5db4674c1906b59b9f7de.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d5db4674c1906b59b9f7de
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d5db4674c1906b59b9f7de
+2023-09-01-03:41:27 Processing file 64f09d12f52704036d29d312.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f09d12f52704036d29d312
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f09d12f52704036d29d312
+2023-09-01-03:41:27 Processing file 64b04758abb03a6d38607273.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b04758abb03a6d38607273
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b04758abb03a6d38607273
+2023-09-01-03:41:27 Processing file 64a2e1b31615d5a3975beaf5.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a2e1b31615d5a3975beaf5
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a2e1b31615d5a3975beaf5
+2023-09-01-03:41:27 Processing file 64e6226b9b630a2479f8fb89.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e6226b9b630a2479f8fb89
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e6226b9b630a2479f8fb89
+2023-09-01-03:41:27 Processing file 64ba868989c166f253eb670a.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ba868989c166f253eb670a
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ba868989c166f253eb670a
+2023-09-01-03:41:27 Processing file 64c3b8a568674f257291b042.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c3b8a568674f257291b042
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c3b8a568674f257291b042
+2023-09-01-03:41:27 Processing file 64aec959f8017dda53219cd6.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64aec959f8017dda53219cd6
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64aec959f8017dda53219cd6
+2023-09-01-03:41:27 Processing file 64be7735f5c03be52e3d305c.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64be7735f5c03be52e3d305c
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64be7735f5c03be52e3d305c
+2023-09-01-03:41:27 Processing file 64ecab3fdbfcb1bba0408571.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ecab3fdbfcb1bba0408571
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ecab3fdbfcb1bba0408571
+2023-09-01-03:41:27 Processing file 64be7858d74c880dfcfe7615.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64be7858d74c880dfcfe7615
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64be7858d74c880dfcfe7615
+2023-09-01-03:41:27 Processing file 64d26652e33287d2d5ca7fe7.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d26652e33287d2d5ca7fe7
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d26652e33287d2d5ca7fe7
+2023-09-01-03:41:27 Processing file 64a2f554317bc46cc4bdb6e7.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a2f554317bc46cc4bdb6e7
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a2f554317bc46cc4bdb6e7
+2023-09-01-03:41:27 Processing file 64e76f372e57767067edc4dd.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e76f372e57767067edc4dd
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e76f372e57767067edc4dd
+2023-09-01-03:41:27 Processing file 64a719c5406fa509bd3b3e38.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a719c5406fa509bd3b3e38
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a719c5406fa509bd3b3e38
+2023-09-01-03:41:27 Processing file 649077a2372e7efdf162ac44.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 649077a2372e7efdf162ac44
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 649077a2372e7efdf162ac44
+2023-09-01-03:41:27 Processing file 64ee03cb197c460023fb73ad.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ee03cb197c460023fb73ad
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ee03cb197c460023fb73ad
+2023-09-01-03:41:27 Processing file 64bfca997135d1348a7563c8.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64bfca997135d1348a7563c8
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64bfca997135d1348a7563c8
+2023-09-01-03:41:27 Processing file 64c80719b55c4fd963785a4a.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c80719b55c4fd963785a4a
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c80719b55c4fd963785a4a
+2023-09-01-03:41:27 Processing file 64da314a9845ea2cd9c6d88d.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64da314a9845ea2cd9c6d88d
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64da314a9845ea2cd9c6d88d
+2023-09-01-03:41:27 Processing file 64c11b20713f2ef9c8dbb9b8.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c11b20713f2ef9c8dbb9b8
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c11b20713f2ef9c8dbb9b8
+2023-09-01-03:41:27 Processing file 64b8f23d88b9105c4641d097.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b8f23d88b9105c4641d097
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b8f23d88b9105c4641d097
+2023-09-01-03:41:27 Processing file 64d0e945d730800037cf33ea.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d0e945d730800037cf33ea
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d0e945d730800037cf33ea
+2023-09-01-03:41:27 Processing file 64a729c3ce50eca7a54ae637.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a729c3ce50eca7a54ae637
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a729c3ce50eca7a54ae637
+2023-09-01-03:41:27 Processing file 64ee05533831ae24210ee53d.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ee05533831ae24210ee53d
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ee05533831ae24210ee53d
+2023-09-01-03:41:27 Processing file 64de13fc81707f73da535f87.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64de13fc81707f73da535f87
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64de13fc81707f73da535f87
+2023-09-01-03:41:27 Processing file 64eca0ac44f7afd8582ec134.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64eca0ac44f7afd8582ec134
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64eca0ac44f7afd8582ec134
+2023-09-01-03:41:27 Processing file 64d69f098146e2b80ae306a3.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d69f098146e2b80ae306a3
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d69f098146e2b80ae306a3
+2023-09-01-03:41:27 Processing file 64e86689b62dbbf6491d9a92.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e86689b62dbbf6491d9a92
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e86689b62dbbf6491d9a92
+2023-09-01-03:41:27 Processing file 64a3175cad781f314bc79784.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a3175cad781f314bc79784
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a3175cad781f314bc79784
+2023-09-01-03:41:27 Processing file 64cc04f4a7999cd603aad8d6.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64cc04f4a7999cd603aad8d6
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64cc04f4a7999cd603aad8d6
+2023-09-01-03:41:27 Processing file 64caa83b14642ce2c0a810dc.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64caa83b14642ce2c0a810dc
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64caa83b14642ce2c0a810dc
+2023-09-01-03:41:27 Processing file 64a445050a5e0f1018b5bf6d.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a445050a5e0f1018b5bf6d
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a445050a5e0f1018b5bf6d
+2023-09-01-03:41:27 Processing file 64b9335ce8519e9f539f2e27.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b9335ce8519e9f539f2e27
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b9335ce8519e9f539f2e27
+2023-09-01-03:41:27 Processing file 64a8361b22c5c40074fd43cd.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a8361b22c5c40074fd43cd
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a8361b22c5c40074fd43cd
+2023-09-01-03:41:27 Processing file 64caa604c4ce91eb26b74912.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64caa604c4ce91eb26b74912
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64caa604c4ce91eb26b74912
+2023-09-01-03:41:27 Processing file 64e86c65ba511d1d4c4aa590.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e86c65ba511d1d4c4aa590
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e86c65ba511d1d4c4aa590
+2023-09-01-03:41:27 Processing file 64edfc5ab93abb1407070292.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64edfc5ab93abb1407070292
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64edfc5ab93abb1407070292
+2023-09-01-03:41:27 Processing file 64a2f791a1e71dfaf28261a2.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a2f791a1e71dfaf28261a2
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a2f791a1e71dfaf28261a2
+2023-09-01-03:41:27 Processing file 64c285ca0a63ae2110040830.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64c285ca0a63ae2110040830
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64c285ca0a63ae2110040830
+2023-09-01-03:41:27 Processing file 64b7cdb9fe627a02501b2be1.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b7cdb9fe627a02501b2be1
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b7cdb9fe627a02501b2be1
+2023-09-01-03:41:27 Processing file 64a5960b230e2e9a1bf9ec66.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a5960b230e2e9a1bf9ec66
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a5960b230e2e9a1bf9ec66
+2023-09-01-03:41:27 Processing file 64d13f467282bcf493dd0135.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d13f467282bcf493dd0135
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d13f467282bcf493dd0135
+2023-09-01-03:41:27 Processing file 64dbbbf7385b58838504c05b.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64dbbbf7385b58838504c05b
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64dbbbf7385b58838504c05b
+2023-09-01-03:41:27 Processing file 64df6cf26aef695423496e21.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64df6cf26aef695423496e21
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64df6cf26aef695423496e21
+2023-09-01-03:41:27 Processing file 64b65fcf1deb71817a34014e.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b65fcf1deb71817a34014e
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b65fcf1deb71817a34014e
+2023-09-01-03:41:27 Processing file 64e8703661313c528fb0b977.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64e8703661313c528fb0b977
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64e8703661313c528fb0b977
+2023-09-01-03:41:27 Processing file 64ef6e79f617dd47a15b55a8.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ef6e79f617dd47a15b55a8
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ef6e79f617dd47a15b55a8
+2023-09-01-03:41:27 Processing file 64ad43a58fbb4b89b0620f1b.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64ad43a58fbb4b89b0620f1b
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64ad43a58fbb4b89b0620f1b
+2023-09-01-03:41:27 Processing file 64da4331cb01dcaced00c772.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64da4331cb01dcaced00c772
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64da4331cb01dcaced00c772
+2023-09-01-03:41:27 Processing file 64da4587823caddfd8617116.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64da4587823caddfd8617116
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64da4587823caddfd8617116
+2023-09-01-03:41:27 Processing file 64da2d37bf605032db9a0cac.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64da2d37bf605032db9a0cac
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64da2d37bf605032db9a0cac
+2023-09-01-03:41:27 Processing file 64edf1fe10794c40a79f86b2.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64edf1fe10794c40a79f86b2
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64edf1fe10794c40a79f86b2
+2023-09-01-03:41:27 Processing file 64f09dcd53227465afe28f24.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f09dcd53227465afe28f24
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f09dcd53227465afe28f24
+2023-09-01-03:41:27 Processing file 64d267daf70e411d6f941487.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64d267daf70e411d6f941487
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64d267daf70e411d6f941487
+2023-09-01-03:41:27 Processing file 64b94d3cdec433c85b83c9a5.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64b94d3cdec433c85b83c9a5
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64b94d3cdec433c85b83c9a5
+2023-09-01-03:41:27 Processing file 64f0afd80b14f8aad315c223.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64f0afd80b14f8aad315c223
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64f0afd80b14f8aad315c223
+2023-09-01-03:41:27 Processing file 64a44720b5058955812bdc19.json
+2023-09-01-03:41:27 Inserting Document to Collection IOC with id 64a44720b5058955812bdc19
+2023-09-01-03:41:27 Success Insert Document to Collection IOC with id 64a44720b5058955812bdc19
